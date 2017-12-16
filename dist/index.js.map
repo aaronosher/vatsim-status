@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":["StatusFile","VatsimStatus","statusFile"],"mappings":"AAAA,SAASA,UAAT,QAA2B,cAA3B;AAEA;;;AAGA,MAAAC,YAAA,CAAA;AAIA,IAAIC,aAAa,IAAIF,UAAJ,EAAjB","file":"index.js","sourcesContent":["import { StatusFile } from './statusFile';\n\n/**\n * \n */\nclass VatsimStatus {\n\n}\n\nlet statusFile = new StatusFile();"]}

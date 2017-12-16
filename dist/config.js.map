@@ -1,0 +1,1 @@
+{"version":3,"sources":["config.ts"],"names":["config","statusUrl","statusFileIdent"],"mappings":"AAAA,IAAIA,MAAJ;AAEAA,SAAS;AACRC,eAAW,0BADH;AAERC,qBAAiB;AAFT,CAAT;AAKA,eAAeF,MAAf","file":"config.js","sourcesContent":["let config: any;\n\nconfig = {\n\tstatusUrl: \"http://status.vatsim.net\",\n\tstatusFileIdent: \"url0\"\n};\n\nexport default config;"]}
