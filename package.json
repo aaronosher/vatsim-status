@@ -1,0 +1,22 @@
+{
+  "name": "vatsim-status",
+  "version": "1.0.0",
+  "description": "Vatsim Status file retriever and parser.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronosher/vatsim-status.git"
+  },
+  "keywords": [
+    "VATSIM"
+  ],
+  "author": "Aaron Osher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronosher/vatsim-status/issues"
+  },
+  "homepage": "https://github.com/aaronosher/vatsim-status#readme"
+}
