@@ -21,15 +21,16 @@
   },
   "homepage": "https://github.com/aaronosher/vatsim-status#readme",
   "devDependencies": {
+    "@types/request": "^2.0.9",
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "babelify": "^8.0.0",
-    "browserify": "^14.5.0",
     "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
     "gulp-typescript": "^3.2.3",
     "tsify": "^3.0.4",
-    "typescript": "^2.6.2",
-    "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
   }
 }
